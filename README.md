@@ -12,3 +12,5 @@ brainstorm-10X-chromium created by GitHub Classroom
 * [10X-Genomics website](https://www.10xgenomics.com/news/10x-genomics-new-chromium-system-enables-full-access-to-critical-molecular-and-cellular-information/) 
 * [Example with lab requirements](http://dnatech.genomecenter.ucdavis.edu/single-cell-analyses/)  
 * [Comparison to other techniques](https://www.biorxiv.org/content/biorxiv/early/2018/05/02/313130.full.pdf)
+
+Group work by Almut Lütge @almutlue, Cristina Loureiro @CrLou, Christoph Blapp @BlappChri
