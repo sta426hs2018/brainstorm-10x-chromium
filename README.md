@@ -7,6 +7,6 @@ brainstorm-10X-chromium created by GitHub Classroom
 
 Two main approaches: (1) Single cell profiling and (2) Genome/Exome sequencing
 
-(2)Genome/Exome sequencing
-https://get.genotoul.fr/wp-content/uploads/2017/12/06_171128_Bouchez_et_Kuchly.pdf
+(2)Genome/Exome sequencing  
+https://get.genotoul.fr/wp-content/uploads/2017/12/06_171128_Bouchez_et_Kuchly.pdf  
 https://gsl.hudsonalpha.org/information/10X
