@@ -1,6 +1,6 @@
-# brainstorm-10x-chromium
-brainstorm-10x-chromium created by GitHub Classroom
+# brainstorm-10X-chromium
+brainstorm-10X-chromium created by GitHub Classroom
 
-* massive parralel single cell expression profiling/ high-throughput single cell transcriptomics
-* encapsulate single cells into gelbeads in emulsion (GEM)
-* Genome solution to sequence DNA from single cells (libraries from +1ng DNA)
+* __High-throughput__ __single cell__ RNA/Genome/Exome sequencing
+* __GemCode Technology__: Single cells, reagents and a single Gel Bead with barcoded oligonucleotides are encapsulated into nanoliter-sized GEMs (Gel Bead in emulsion)
+* Major applications: Individual cell type profiling,differential expression, cell trajectories,..
