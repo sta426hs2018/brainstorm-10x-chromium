@@ -5,6 +5,12 @@ brainstorm-10X-chromium created by GitHub Classroom
 * __GemCode Technology__: Single cells, reagents and a single Gel Bead with barcoded oligonucleotides are encapsulated into nanoliter-sized GEMs (Gel Bead in emulsion)
 * __Major applications__: Individual cell type profiling, differential expression, cell trajectories,..
 
+---
+
+![alt text](/chromium10X.png "Basic principle 10X-Chromium scRNAseq")
+
+---
+
 ### Further reading
 
 * [10x for single cell transcriptomics](https://get.genotoul.fr/wp-content/uploads/2017/12/06_171128_Bouchez_et_Kuchly.pdf)  
